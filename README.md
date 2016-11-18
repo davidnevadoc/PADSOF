@@ -1,6 +1,7 @@
 # PADSOF
 
-Proyecto de Analisis y Disenno de Software 2015
+Proyecto de Analisis y Disenno de Software 2015.
+
 Un 9 nos cascaron o por ahi. 
 
 
