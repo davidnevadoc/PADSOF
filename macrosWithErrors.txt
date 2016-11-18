@@ -1,0 +1,9 @@
+maxlength;200
+
+maxweight;15
+basePriceIfWeight;20
+incrementPrice;3
+incrementWeight;5
+basePrice
+usersFile;usersfile.txt;ui
+deliveryDiscount;a

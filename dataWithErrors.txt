@@ -1,0 +1,10 @@
+S;Glass bottle (19th century) Hand holding a colt;18xx;21/12/2015;55.00;125.00;5
+S;African ethnic Wooden mask;0;11/05/2013;2.00;100.00;10
+B;Old polychromatic altar from Sonora (Arizona);1941;07/07/2012;874.00;1200.00;37;92;83;203
+A;Girl holding flowers (oil paint);185x;08/10/2014;150.00;900.00;Meyer Von Bremen;Painting;N
+A;Mater Amabilis Ora Pro Novis;1951;15/09/2014;65.00;120.00;Joan Llimona Bruguera;Its cute;Print;Y
+A;Girl #1 in bronze;19xx;10/8/2014;200.00;600.00;French School;Sculpture;P
+A;Girl #2 in bronze;19xx;10/8/2014;200.00;600.00;French School;sculpture;N
+B;Stand in mahogany ;198x;7/7/2013;50.00;100.00;12;45;45
+S;Two small French table lamps;0;21eep2014;60.00;120.00;0
+B;Four-seat wooden pew;1916;15/1/2016;75.00;100.00;32;86;175;50

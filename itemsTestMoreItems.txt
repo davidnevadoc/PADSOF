@@ -1,0 +1,3 @@
+S;Baby born;18xx;21/12/2015;1.00;125.00;5.00;
+S;Baby born plus;18xx;29/12/2015;8.00;125.00;5.00;
+A;Monalisa;19xx;10/08/2014;200.00;600.00;French School;Sculpture;N

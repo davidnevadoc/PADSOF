@@ -1,0 +1,12 @@
+maxlength;200
+priceIfLong;50
+maxweight;15
+basePriceIfWeight;20
+incrementPrice;2
+incrementWeight;5
+basePrice;0
+deliveryDiscount;0.5
+minAmount;200
+freeAuctions;5
+usersFile;employees.txt
+itemsFile;items.txt

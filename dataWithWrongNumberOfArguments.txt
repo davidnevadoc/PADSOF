@@ -1,0 +1,6 @@
+S;Glass bottle (19th century) Hand holding a colt;21/12/2015;55.00;125.00;5
+A;Mater Amabilis Ora Pro Novis;1951;15/09/2014;65.00;120.00;Joan Llimona Bruguera;Print;Y
+A;Girl #1 in bronze;19xx;10/8/2014;200.00;600.00;French School;Sculpture;N
+A;Girl #2 in bronze;19xx;10/8/2014;200.00;600.00;sculpture;N
+B;Stand in mahogany ;198x;7/7/2013;50.00;100.00;12;45
+S;Two small French table lamps;0;21/12/2014;60.00;120.00;0
